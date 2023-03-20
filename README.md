@@ -5,7 +5,20 @@ This repo helps to collect knowledge over the Walletmor implant.
 
 [walletmor.com](walletmor.com])
 
+
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/Light_Effect_on_circuit_board.gif" width="50%" height="50%"/>
+
+
+## Parts
+
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/walletmor-parts.png" width="50%" height="50%"/><img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/walletmor-parts1.png" width="23.42%" height="23.42%"/>
+
+
+
+## Size & Weigh
+Dimensions: approx. 0.5 mm x 7 mm x 28 mm
+
+Weigh: < 1 gram
 
 
 ## Sweet spots on POS Terminals
