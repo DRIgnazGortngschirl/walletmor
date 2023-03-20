@@ -1,5 +1,7 @@
-# Walletmor
+# Walletmor 💳
 Walletmor Tips 'n Tricks
+
+This repo helps to collect knowledge over the Walletmor implant.
 
 [walletmor.com](walletmor.com])
 
