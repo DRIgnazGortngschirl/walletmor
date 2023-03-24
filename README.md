@@ -18,11 +18,13 @@ Weigh: < 1 gram
 Can sustain 500 newtons.
 
 ## Sweet spots on POS Terminals
-| Vendor       | Model     | Sweet Spot                                                                                                                   | Location / Notes                                                 |
-|--------------|-----------|------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|
-| Concardis    | N/A       | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.  | 
-| Ingenico     | Desk 5000 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/ingenico-desk5000.png" width="30%" height="30%"/>   | Above the model number vertical on the angled side               | 
-| Nayax        | Onyx      | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/nayax-onyx.png" width="30%" height="30%"/>          | In the middle between the vendor text and the NFC indicator bars | 
+| Vendor       | Model       | Sweet Spot                                                                                                                   | Location / Notes                                                  |
+|--------------|-------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
+| Concardis    | N/A         | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.   | 
+| Ingenico     | Desk 5000   | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/ingenico-desk5000.png" width="30%" height="30%"/>   | Above the model number vertical on the angled side.               | 
+| Nayax        | Onyx        | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/nayax-onyx.png" width="30%" height="30%"/>          | In the middle between the vendor text and the NFC indicator bars. | 
+| Verifone     | Engage P400 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/verifone-engageP400.png" width="30%" height="30%"/> | Top middle of the screen about 1,5cm down from the screens edge.  | 
+
 
 ## ISO Standards
 ### Health
