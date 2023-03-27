@@ -5,10 +5,10 @@ This repo helps to collect knowledge over the Walletmor implant.
 
 [walletmor.com](walletmor.com])
 
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/Light_Effect_on_circuit_board.gif" width="50%" height="50%"/>
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-light_effect_on_circuit_board.gif" width="50%" height="50%"/>
 
 ## Parts
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/walletmor-parts.png" width="50%" height="50%"/><img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/walletmor-parts1.png" width="23.42%" height="23.42%"/>
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-parts.png" width="50%" height="50%"/><img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-parts1.png" width="23.42%" height="23.42%"/>
 
 ## Size & Weigh
 Dimensions: approx. 0.5 mm x 7 mm x 28 mm  
@@ -20,10 +20,10 @@ Can sustain 500 newtons.
 ## Sweet spots on POS Terminals
 | Vendor       | Model       | Sweet Spot                                                                                                                   | Location / Notes                                                  |
 |--------------|-------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Concardis    | N/A         | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.   | 
-| Ingenico     | Desk 5000   | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/ingenico-desk5000.png" width="30%" height="30%"/>   | Above the model number vertical on the angled side.               | 
-| Nayax        | Onyx        | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/nayax-onyx.png" width="30%" height="30%"/>          | In the middle between the vendor text and the NFC indicator bars. | 
-| Verifone     | Engage P400 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/verifone-engageP400.png" width="30%" height="30%"/> | Top middle of the screen about 1,5cm down from the screens edge.  | 
+| Concardis    | N/A         | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.   | 
+| Ingenico     | Desk 5000   | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/ingenico-desk5000.png" width="30%" height="30%"/>   | Above the model number vertical on the angled side.               | 
+| Nayax        | Onyx        | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/nayax-onyx.png" width="30%" height="30%"/>          | In the middle between the vendor text and the NFC indicator bars. | 
+| Verifone     | Engage P400 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/verifone-engageP400.png" width="30%" height="30%"/> | Top middle of the screen about 1,5cm down from the screens edge.  | 
 
 
 ## ISO Standards
@@ -37,7 +37,7 @@ Product: JCOP41 v2.2
 ATQA: 00 48  
 SAK: 20  
 
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/walletmor-nfc-tools-read.png" width="30%" height="30%"/> 
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-nfc-tools-read.png" width="30%" height="30%"/> 
 
 ## X-Ray Images
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/walletmor-x_ray.png" width="30%" height="30%"/>
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-x_ray.png" width="30%" height="30%"/>
