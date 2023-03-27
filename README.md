@@ -1,23 +1,25 @@
 # Walletmor 💳
 Walletmor Tips 'n Tricks
 
-This repo helps to collect knowledge over the Walletmor implant.
+This repo helps to collect knowledge on the Walletmor implant.
 
 [walletmor.com](walletmor.com])
 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-light_effect_on_circuit_board.gif" width="50%" height="50%"/>
 
-## Parts
+## Parts 🖥️
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-parts.png" width="50%" height="50%"/><img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-parts1.png" width="23.42%" height="23.42%"/>
 
-## Size & Weigh
+## Size & Weigh 📏⚖️
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-size.png" width="20%" height="20%"/>
+
 Dimensions: approx. 0.5 mm x 7 mm x 28 mm  
 Weigh: < 1 gram
 
-## Impact strength
+## Impact strength 💥
 Can sustain 500 newtons.
 
-## Sweet spots on POS Terminals
+## Sweet spots on POS Terminals 🎯
 | Vendor       | Model       | Sweet Spot                                                                                                                   | Location / Notes                                                  |
 |--------------|-------------|------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
 | Concardis    | N/A         | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.   | 
@@ -26,7 +28,7 @@ Can sustain 500 newtons.
 | Verifone     | Engage P400 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/verifone-engageP400.png" width="30%" height="30%"/> | Top middle of the screen about 1,5cm down from the screens edge.  | 
 
 
-## ISO Standards
+## ISO Standards 📃
 ### Health
 [ISO 10993-5:2009](https://www.iso.org/obp/ui/#iso:std:iso:10993:-5:ed-3:v1:en)  
 [ISO 10993-12:2021](https://www.iso.org/obp/ui/#iso:std:iso:10993:-12:ed-5:v1:en)
@@ -39,5 +41,5 @@ SAK: 20
 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-nfc-tools-read.png" width="30%" height="30%"/> 
 
-## X-Ray Images
+## X-Ray Images 🩻 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-x_ray.png" width="30%" height="30%"/>
