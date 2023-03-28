@@ -36,10 +36,28 @@ Can sustain 500 newtons.
 [ISO/IEC 14443 Type A](https://nfc-tools.github.io/resources/standards/iso14443A/)  
 Manufacturer: IBM  
 Product: JCOP41 v2.2  
+Serialnumber: 04:32:5D:DA:AC:5F:80
 ATQA: 00 48  
 SAK: 20  
+ATS: 0x0031C173C84000009000
+
+## Card Infos 
+Expiry Date: 05/29 (May/2029) 31st.May.2029
+
+Service Code: 226  
+* 2 Interchange: International (Integrated Circuit Card)  
+* 2 Authorization Processing: By Issuer via Online  
+* 6 Allowed Services: No restrictions (Prompt for PIN if PED present)  
+
+Name: Mastercard  
+Application Priority Indicator: 1  
+9F0A: 00010104  
+9F6E: 08260a99 30323331 38373531 33363635 32  
+Date of issue: 220531  
 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-nfc-tools-read.png" width="30%" height="30%"/> 
+
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_metrodroid-read.png" width="30%" height="30%"/> 
 
 ## X-Ray Images 🩻 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-x_ray.png" width="30%" height="30%"/>
