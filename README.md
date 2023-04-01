@@ -51,8 +51,11 @@ Service Code: 226
 * 2 Authorization Processing: By Issuer via Online  
 * 6 Allowed Services: No restrictions (Prompt for PIN if PED present)  
 
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-nfc-tools-read.png" width="30%" height="30%"/>
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_metrodroid-read.png" width="30%" height="30%"/> <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_bankomat-card-infos-2-read.png" width="30%" height="30%"/>
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-nfc-tools-read.png" width="30%" height="30%"/> 
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_metrodroid-read.png" width="30%" height="30%"/>  
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-metrodroid-log-read.png" width="30%" height="30%"/>  
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_bankomat-card-infos-2-read.png" width="30%" height="30%"/>  
+
 
 ## X-Ray Images 🩻 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-x_ray.png" width="30%" height="30%"/>
