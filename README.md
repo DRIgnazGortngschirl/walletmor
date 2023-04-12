@@ -3,7 +3,8 @@ Walletmor Tips 'n Tricks
 
 This repo helps to collect knowledge on the Walletmor implant.
 
-[walletmor.com](https://walletmor.com?sca_ref=3437865.2hr2fbkecW])
+[walletmor.com](https://walletmor.com?sca_ref=3437865.2hr2fbkecW])  
+Coupon Code / Discount code: MARIO10 for -10 % off
 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-light_effect_on_circuit_board.gif" width="50%" height="50%"/>
 
