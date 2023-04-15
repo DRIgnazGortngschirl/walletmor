@@ -4,8 +4,9 @@ Walletmor Tips 'n Tricks
 This repo helps to collect knowledge on the Walletmor implant.
 
 [walletmor.com](https://walletmor.com?sca_ref=3437865.2hr2fbkecW])  
-Coupon Code / Discount code: MARIO10 for -10 % off
-
+```diff
+- Coupon Code / Discount code: MARIO10 for -10 % off
+```
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-light_effect_on_circuit_board.gif" width="50%" height="50%"/>
 
 ## Parts 🖥️
@@ -21,14 +22,15 @@ Weigh: < 1 gram
 Can sustain 500 newtons.
 
 ## Sweet spots on POS Terminals 🎯
-| Vendor       | Model       | Sweet Spot                                                                                                                                 | Location / Notes                                                  |
-|--------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------|
-| Concardis    | N/A         | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.   | 
-| Ingenico     | Desk 5000   | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/ingenico-desk5000.png" width="30%" height="30%"/>   | Above the model number vertical on the angled side.               | 
-| Nayax        | Onyx        | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/nayax-onyx.png" width="30%" height="30%"/>          | In the middle between the vendor text and the NFC indicator bars. | 
-| Verifone     | Engage P400 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/verifone-engageP400.png" width="30%" height="30%"/> | Top middle of the screen about 1,5cm down from the screens edge.  | 
-| Verifone     | V400m       | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/verifone-V400m.png" width="30%" height="30%"/>      | Top middle of the screen about 1 cm down from the screens edge.   | 
-
+| Vendor       | Model       | Sweet Spot                                                                                                                                 | Location / Notes                                                      |
+|--------------|-------------|--------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
+| Concardis    | N/A         | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/concardis-na.png" width="30%" height="30%"/>        | Top middle of the screen about 1 cm down from the screens edge.       | 
+| Ingenico     | Desk 5000   | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/ingenico-desk5000.png" width="30%" height="30%"/>   | Above the model number vertical on the angled side.                   | 
+| Ingenico     | Lane 5000   | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/ingenico-lane5000.png" width="30%" height="30%"/>   | On the black ring between the middle LEDs of the NFC indicator bars.  | 
+| Nayax        | Onyx        | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/nayax-onyx.png" width="30%" height="30%"/>          | In the middle between the vendor text and the NFC indicator bars.     | 
+| Pax          | A920 Pro    | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/pax-A920pro.png" width="30%" height="30%"/>         | A Little bellow the black field (Scanner) on the angled side.         | 
+| Verifone     | Engage P400 | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/verifone-engageP400.png" width="30%" height="30%"/> | Top middle of the screen about 1,5cm down from the screens edge.      | 
+| Verifone     | V400m       | <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/pos-terminals/verifone-V400m.png" width="30%" height="30%"/>      | Top middle of the screen about 1 cm down from the screens edge.       | 
 
 ## ISO Standards 📃
 ### Health
