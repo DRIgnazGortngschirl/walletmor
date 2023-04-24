@@ -15,7 +15,7 @@ This repo helps to collect knowledge on the Walletmor implant.
 ## Size & Weigh 📏⚖️
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-size.png" width="20%" height="20%"/>
 
-Dimensions: approx. 0.5 mm x 7 mm x 28 mm  
+Dimensions: approx. 0.4 mm x 7 mm x 28 mm  
 Weigh: < 1 gram
 
 ## Impact strength 💥
@@ -44,6 +44,15 @@ Serialnumber: 04:32:5D:DA:AC:5F:80
 ATQA: 00 48  
 SAK: 20  
 ATS: 0x0031C173C84000009000
+
+
+## Instructions
+
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_instruction-guilde.png?raw=tru" width="100%" height="100%"/>
+
+[Walletmor Instruction Europe \(iCard\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction-europe-icard.pdf)  
+[Walletmor Instruction USA \(Purewrist\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction_usa_purewrist.pdf)
+
 
 ## Card Infos 
 Expiry Date: 05/29 (May/2029) 31st. May 2029  
