@@ -51,7 +51,8 @@ ATS: 0x0031C173C84000009000
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_instruction-guilde.png?raw=tru" width="100%" height="100%"/>
 
 [Walletmor Instruction Europe \(iCard\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction-europe-icard.pdf)  
-[Walletmor Instruction USA \(Purewrist\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction_usa_purewrist.pdf)
+[Walletmor Instruction USA \(Purewrist\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction_usa_purewrist.pdf)  
+[Walletmor Ambassador Ship Confirmation](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_ambassadorship-confirmation.pdf)
 
 
 ## Card Infos 
