@@ -7,6 +7,10 @@ This repo helps to collect knowledge on the Walletmor implant.
 ```diff
 - Coupon Code / Discount code: MARIO10 for -10 % off
 ```
+```diff
++ Coupon Code / Discount code: MARIO10 for -10 % off
+```
+
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-light_effect_on_circuit_board.gif" width="50%" height="50%"/>
 
 ## Parts 🖥️
@@ -46,7 +50,7 @@ SAK: 20
 ATS: 0x0031C173C84000009000
 
 
-## Instructions
+## Instructions 📋
 
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_instruction-guilde.png?raw=tru" width="100%" height="100%"/>
 
@@ -55,7 +59,7 @@ ATS: 0x0031C173C84000009000
 [Walletmor Ambassador Ship Confirmation](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_ambassadorship-confirmation.pdf)
 
 
-## Card Infos 
+## Card Infos ℹ️
 Expiry Date: 05/29 (May/2029) 31st. May 2029  
 Date of issue: 05/22 (May/2022) 31st. May 2022
 
