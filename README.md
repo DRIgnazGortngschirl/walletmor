@@ -17,7 +17,9 @@ This repo helps to collect knowledge on the Walletmor implant.
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-parts.png" width="50%" height="50%"/><img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-parts1.png" width="23.42%" height="23.42%"/>
 
 ## Size & Weigh 📏⚖️
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-size.png" width="20%" height="20%"/>
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-size.png" width="20%" height="20%"/><img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_instruction-guilde-size.png" width="31.05%" height="31.05%"/>
+
+
 
 Dimensions: approx. 0.4 mm x 7 mm x 28 mm  
 Weigh: < 1 gram
