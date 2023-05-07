@@ -54,7 +54,7 @@ ATS: 0x0031C173C84000009000
 
 ## Instructions 📋
 
-<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_instruction-guilde.png?raw=tru" width="100%" height="100%"/>
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_instruction-guilde.png" width="100%" height="100%"/>
 
 [Walletmor Instruction Europe \(iCard\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction-europe-icard.pdf)  
 [Walletmor Instruction USA \(Purewrist\)](https://raw.githubusercontent.com/DRIgnazGortngschirl/walletmor/main/img/walletmor_instruction_usa_purewrist.pdf)  
@@ -75,6 +75,16 @@ Service Code: 226
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_metrodroid-read.png" width="30%" height="30%"/>  
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor-metrodroid-log-read.png" width="30%" height="30%"/>  
 <img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_bankomat-card-infos-2-read.png" width="30%" height="30%"/>  
+
+## After Implatation 💉
+
+Check out my Telegram Channel to see the healing process of a scalpel lees implantation. 
+
+Telegram Invite Link: [Walletmor Tips 'n Tricks](https://t.me/+i3OfPceWYPcyMTg0)
+
+<img src="https://github.com/DRIgnazGortngschirl/walletmor/blob/main/img/walletmor_telegram-tips'n-tricks-invite.png" width="30%" height="30%"/>
+
+
 
 
 ## X-Ray Images 🩻 
